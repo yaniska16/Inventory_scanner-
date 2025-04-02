@@ -1,4 +1,5 @@
-# Inventory_scanner-import 'package:flutter/material.dart';
+# Inventory_scanner-
+import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter_barcode_scanner/flutter_barcode_scanner.dart';
 
